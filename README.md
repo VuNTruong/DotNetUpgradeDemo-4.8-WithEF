@@ -10,8 +10,8 @@ II. Performing upgrade
 2. Navigate to the project directory
 3. Enter this command: upgrade-assistant upgrade
 4. Choose project to upgade
-   ![image](https://github.com/VuNTruong/DotNetUpgradeDemo-4.8/assets/56061432/67920c62-12a8-4fcc-92fe-a166f1cfcf43)
+![image](https://github.com/VuNTruong/DotNetUpgradeDemo-4.8/assets/56061432/67920c62-12a8-4fcc-92fe-a166f1cfcf43)
 5. Choose target framework
-   ![image](https://github.com/VuNTruong/DotNetUpgradeDemo-4.8/assets/56061432/5dc9bb78-3638-4631-a88c-530e9f851927)
+![image](https://github.com/VuNTruong/DotNetUpgradeDemo-4.8/assets/56061432/5dc9bb78-3638-4631-a88c-530e9f851927)
 6. Enter "y" to perform upgrade
-   ![image](https://github.com/VuNTruong/DotNetUpgradeDemo-4.8/assets/56061432/524b3966-239d-49e4-87a5-3c336fbff6ef)
+![image](https://github.com/VuNTruong/DotNetUpgradeDemo-4.8/assets/56061432/524b3966-239d-49e4-87a5-3c336fbff6ef)
