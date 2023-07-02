@@ -1,0 +1,15 @@
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\DotNetUpgradeApp.exe.config
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\DotNetUpgradeApp.exe
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\DotNetUpgradeApp.pdb
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\obj\Debug\DotNetUpgradeApp.csproj.AssemblyReference.cache
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\obj\Debug\DotNetUpgradeApp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\obj\Debug\DotNetUpgradeApp.csproj.CoreCompileInputs.cache
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\obj\Debug\DotNetUpgradeApp.exe
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\obj\Debug\DotNetUpgradeApp.pdb
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\Entities.dll
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\Util.dll
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\Entities.pdb
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\Util.pdb
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\DotNetUpgradeApp\DotNetUpgradeApp\obj\Debug\DotNetUpgradeApp.csproj.CopyComplete
