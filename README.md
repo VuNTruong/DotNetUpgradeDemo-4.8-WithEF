@@ -15,3 +15,8 @@ II. Performing upgrade
 ![image](https://github.com/VuNTruong/DotNetUpgradeDemo-4.8/assets/56061432/5dc9bb78-3638-4631-a88c-530e9f851927)
 6. Enter "y" to perform upgrade
 ![image](https://github.com/VuNTruong/DotNetUpgradeDemo-4.8/assets/56061432/524b3966-239d-49e4-87a5-3c336fbff6ef)
+
+III. Note
+When performing upgrade. It's best to start with project with least reference. Then, go up with project with more references and all until the end.
+According to that fact, for this project, we will go with this order
+Entities -> Util -> DotNetUpgradeApp
