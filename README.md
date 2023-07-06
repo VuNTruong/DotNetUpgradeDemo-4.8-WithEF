@@ -20,3 +20,7 @@ III. Note
 When performing upgrade. It's best to start with project with least reference. Then, go up with project with more references and all until the end.
 According to that fact, for this project, we will go with this order
 Entities -> Util -> DotNetUpgradeApp
+
+IV. Cloning
+1. git remote add origin https://github.com/VuNTruong/DotNetUpgradeDemo-4.8.git
+2. git pull origin master
