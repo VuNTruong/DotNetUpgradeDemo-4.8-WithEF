@@ -4,3 +4,15 @@ C:\Projects\DotNetUpgradeApp\Entities\obj\Debug\Entities.csproj.AssemblyReferenc
 C:\Projects\DotNetUpgradeApp\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
 C:\Projects\DotNetUpgradeApp\Entities\obj\Debug\Entities.dll
 C:\Projects\DotNetUpgradeApp\Entities\obj\Debug\Entities.pdb
+C:\Projects\DotNetUpgradeAppv4\Entities\bin\Debug\Entities.dll
+C:\Projects\DotNetUpgradeAppv4\Entities\bin\Debug\Entities.pdb
+C:\Projects\DotNetUpgradeAppv4\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Projects\DotNetUpgradeAppv4\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Projects\DotNetUpgradeAppv4\Entities\obj\Debug\Entities.dll
+C:\Projects\DotNetUpgradeAppv4\Entities\obj\Debug\Entities.pdb
+C:\Projects\DotNetUpgradeAppv4\Entities\bin\Debug\Entities.dll.config
+C:\Projects\DotNetUpgradeAppv4\Entities\bin\Debug\EntityFramework.dll
+C:\Projects\DotNetUpgradeAppv4\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\DotNetUpgradeAppv4\Entities\bin\Debug\EntityFramework.xml
+C:\Projects\DotNetUpgradeAppv4\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\DotNetUpgradeAppv4\Entities\obj\Debug\Entities.csproj.CopyComplete
