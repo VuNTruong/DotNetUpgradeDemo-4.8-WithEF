@@ -1,9 +1,5 @@
 ﻿using Entities;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
 using System.Threading.Tasks;
 using Util;
 
@@ -18,6 +14,8 @@ namespace UpgradingApp
             Console.WriteLine("1. Create new user");
             Console.WriteLine("2. Get user by name");
             Console.WriteLine("3. Get all users in database");
+            Console.WriteLine("4. Export HTML to PDF");
+
             string userChoice = Console.ReadLine();
 
             if (userChoice == "1")
@@ -33,6 +31,11 @@ namespace UpgradingApp
             if (userChoice == "3")
             {
                 await GetAllUsers();
+            }
+
+            if (userChoice == "4")
+            {
+                ExportToPDF();
             }
 
             Console.ReadLine();
@@ -80,7 +83,7 @@ namespace UpgradingApp
             var userUtil = new UserUtil();
             var users = await userUtil.GetAllUsersInDatabase();
 
-            foreach(var user in users)
+            foreach (var user in users)
             {
                 ShowUser(user);
             }
@@ -94,6 +97,12 @@ namespace UpgradingApp
 
             // Show generated json string
             Console.WriteLine(userJsonString);
+        }
+
+        private static void ExportToPDF()
+        {
+            var exportToPdfTool = new PdfUtil();
+            exportToPdfTool.ExportToPDF();
         }
     }
 }
